@@ -1,0 +1,86 @@
+,Sales_Order #,Date,Day,Month,Year,Customer_Age,Age_Group,Customer_Gender,Country,State,Product_Category,Sub_Category,Product_Description,Size,Color,Order_Quantity, Unit_Cost , Unit_Price , Profit , Cost ,Revenue
+0,261695,2021-12-01,1,December,2021,39,Adults,F,United States,California,Bikes,Mountain Bikes,Mountain-200, 46,Black,4.0,1252.0,2295.0,4172.0,5008.0,9180.0
+1,261695,2021-12-01,1,December,2021,44,Adults,M,United Kingdom,England,Bikes,Mountain Bikes,Mountain-200, 42,Silver,1.0,1266.0,2320.0,1054.0,1266.0,2320.0
+2,261697,2021-12-02,2,December,2021,37,Adults,M, United States,California,Bikes,Mountain Bikes,Mountain-400-W, 46,Silver,2.0,420.0,769.0,698.0,840.0,1538.0
+3,261698,2021-12-02,2,December,2021,31,Young Adults,F,Australia,New South Wales,Bikes,Mountain Bikes,Mountain-400-W, 42,Silver,1.0,420.0,769.0,349.0,420.0,769.0
+4,261699,2021-12-03,3,December,2021,37,Adults,F,United  States,California,Bikes,Mountain Bikes,Mountain-200, 46,Black,2.0,0.0,2295.0,2086.0,0.0,4590.0
+5,261700,2021-12-03,3,December,2021,24,Youth,F,United Kingdom,England,Bikes,Mountain Bikes,Mountain-200, 38,Black,1.0,1252.0,2295.0,1043.0,1252.0,2295.0
+6,261701,2021-12-03,3,December,2021,37,Adults,M,United States ,Washington,Bikes,Mountain Bikes,Mountain-200, 46,Black,1.0,1252.0,2295.0,1043.0,1252.0,2295.0
+7,261701,2021-12-03,3,December,2021,37,Adults,M,United States,Washington,Bikes,Mountain Bikes,Mountain-200, 46,Black,1.0,1252.0,2295.0,1043.0,1252.0,2295.0
+8,261702,2021-12-04,4,December,2021,31,Young Adults,F,Australia,New South Wales,Bikes,Mountain Bikes,Mountain-400-W, 42,Silver,4.0,420.0,0.0,1396.0,1680.0,0.0
+9,261703,2021-12-05,5,December,2021,39,Adults,F,United States,California,Bikes,Mountain Bikes,Mountain-200, 46,Black,4.0,1252.0,2295.0,4172.0,5008.0,9180.0
+11,261705,2021-12-05,5,December,2021,35,Adults,F,Australia,Queensland,Bikes,Mountain Bikes,Mountain-200, 38,Silver,1.0,1266.0,2320.0,1054.0,1266.0,2320.0
+12,261706,2021-12-05,5,December,2021,37,Adults,F,United States,California,Bikes,Mountain Bikes,Mountain-200, 46,Black,1.0,1252.0,2295.0,1043.0,1252.0,2295.0
+13,261707,2021-12-06,6,December,2021,23,Youth,M,United Kingdom,England,Bikes,Mountain Bikes,Mountain-400-W, 46,Silver,3.0,420.0,769.0,1047.0,1260.0,2307.0
+14,261708,2021-12-06,6,December,2021,27,Young Adults,M,Canada,British Columbia,Bikes,Mountain Bikes,Mountain-200, 46,Black,1.0,1252.0,2295.0,1043.0,1252.0,2295.0
+16,261710,2021-12-06,6,December,2021,47,Adults,M,United Kingdom,England,Bikes,Mountain Bikes,Mountain-200, 38,Silver,1.0,1266.0,2320.0,1054.0,1266.0,2320.0
+17,261711,2021-12-07,7,Decmber,2021,30,Young Adults,M,United States,California,Bikes,Mountain Bikes,Mountain-400-W, 38,Silver,4.0,420.0,769.0,1396.0,1680.0,3076.0
+18,261712,2021-12-07,7,December,2021,38,Adults,M,United States,California,Bikes,Mountain Bikes,Mountain-200, 42,Silver,2.0,1266.0,2320.0,2108.0,2532.0,4640.0
+19,261713,2021-12-08,8,December,2021,19,Youth,F,Australia,New South Wales,Bikes,Mountain Bikes,Mountain-500, 42,Silver,4.0,308.0,565.0,1028.0,1232.0,2260.0
+20,261714,2021-12-08,8,December,2021,30,Young Adults,F,Canada,British Columbia,Bikes,Mountain Bikes,Mountain-200, 38,Silver,4.0,1266.0,2320.0,4216.0,5064.0,9280.0
+23,261717,2021-12-09,9,December,2021,33,Young Adults,F,Australia,Victoria,Bikes,Mountain Bikes,Mountain-100, 38,Black,2.0,1898.0,3375.0,2954.0,3796.0,6750.0
+24,261718,2021-12-09,9,December,2021,41,Adults,F,Germany,Hamburg,Bikes,Mountain Bikes,Mountain-200, 42,Silver,1.0,1266.0,2320.0,1054.0,1266.0,2320.0
+25,261719,2021-12-10,10,December,2021,34,Young Adults,F,United States,California,Bikes,Mountain Bikes,Mountain-200, 42,Black,2.0,1252.0,2295.0,2086.0,2504.0,4590.0
+26,261720,2021-12-10,10,December,2021,40,Adults,M,Australia,New South Wales,Bikes,Mountain Bikes,Mountain-200, 42,Black,2.0,1252.0,2295.0,2086.0,2504.0,4590.0
+27,261721,2021-12-10,10,December,2021,26,Young Adults,M,United Kingdom,England,Bikes,Mountain Bikes,Mountain-200, 38,Black,1.0,1252.0,2295.0,1043.0,1252.0,2295.0
+28,261722,2021-12-10,10,December,2021,34,Young Adults,M,United States,California,Bikes,Mountain Bikes,Mountain-500, 40,Black,1.0,295.0,540.0,245.0,295.0,540.0
+29,261723,2021-12-10,10,December,2021,34,Young Adults,F,United States,Washington,Bikes,Mountain Bikes,Mountain-100, 44,Silver,1.0,1912.0,3400.0,1488.0,1912.0,3400.0
+30,261724,2021-12-10,10,December,2021,38,Adults,M,Australia,New South Wales,Bikes,Mountain Bikes,Mountain-200, 38,Black,1.0,1252.0,2295.0,1043.0,1252.0,2295.0
+31,261725,2021-12-11,11,December,2021,24,Youth,F,France,Seine (Paris),Bikes,Mountain Bikes,Mountain-200, 38,Black,3.0,1252.0,2295.0,3129.0,3756.0,6885.0
+32,261726,2021-12-11,11,December,2021,41,Adults,F,Australia,New South Wales,Bikes,Mountain Bikes,Mountain-400-W, 38,Silver,2.0,420.0,769.0,698.0,840.0,1538.0
+33,261727,2021-12-11,11,December,2021,27,Young Adults,M,Canada,British Columbia,Bikes,Mountain Bikes,Mountain-200, 46,Black,1.0,1252.0,2295.0,1043.0,1252.0,2295.0
+34,261728,2021-12-11,11,December,2021,37,Adults,M,United States,California,Bikes,Mountain Bikes,Mountain-400-W, 46,Silver,1.0,420.0,769.0,349.0,420.0,769.0
+35,261729,2021-12-11,11,December,2021,38,Adults,F,United States,California,Bikes,Mountain Bikes,Mountain-200, 38,Silver,1.0,1266.0,2320.0,1054.0,1266.0,2320.0
+36,261730,2021-12-12,12,December,2021,36,Adults,F,Australia,New South Wales,Bikes,Mountain Bikes,Mountain-200, 42,Silver,4.0,1266.0,2320.0,4216.0,5064.0,9280.0
+37,261731,2021-12-12,12,December,2021,37,Adults,M,United States,California,Bikes,Mountain Bikes,Mountain-400-W, 46,Silver,4.0,420.0,769.0,1396.0,1680.0,3076.0
+38,261732,2021-12-12,12,December,2021,34,Young Adults,M,Australia,New South Wales,Bikes,Mountain Bikes,Mountain-200, 38,Black,2.0,1252.0,2295.0,2086.0,2504.0,4590.0
+39,261733,2021-12-12,12,December,2021,35,Adults,F,Australia,Victoria,Bikes,Mountain Bikes,Mountain-200, 42,Silver,1.0,1266.0,2320.0,1054.0,1266.0,2320.0
+40,261734,2021-12-12,12,December,2021,38,Adults,F,United States,Washington,Bikes,Mountain Bikes,Mountain-200, 42,Silver,1.0,1266.0,2320.0,1054.0,1266.0,2320.0
+41,261735,2021-12-13,13,December,2021,32,Young Adults,F,Australia,Queensland,Bikes,Mountain Bikes,Mountain-200, 42,Silver,3.0,1266.0,2320.0,3162.0,3798.0,6960.0
+42,261736,2021-12-13,13,December,2021,40,Adults,F,United States,California,Bikes,Mountain Bikes,Mountain-500, 40,Silver,1.0,308.0,565.0,257.0,308.0,565.0
+43,261737,2021-12-13,13,December,2021,44,Adults,F,United Kingdom,England,Bikes,Mountain Bikes,Mountain-200, 38,Black,1.0,1252.0,2295.0,1043.0,1252.0,2295.0
+44,261738,2021-12-13,13,December,2021,49,Adults,M,United Kingdom,England,Bikes,Mountain Bikes,Mountain-200, 38,Black,1.0,1252.0,2295.0,1043.0,1252.0,2295.0
+45,261739,2021-12-14,14,December,2021,30,Young Adults,F,United States,Washington,Bikes,Mountain Bikes,Mountain-200, 38,Silver,2.0,1266.0,2320.0,2108.0,2532.0,4640.0
+46,261740,2021-12-14,14,December,2021,32,Young Adults,M,United States,California,Bikes,Mountain Bikes,Mountain-200, 46,Black,1.0,1252.0,2295.0,1043.0,1252.0,2295.0
+47,261741,2021-12-14,14,December,2021,32,Young Adults,F,Australia,Victoria,Bikes,Mountain Bikes,Mountain-400-W, 46,Silver,1.0,420.0,769.0,349.0,420.0,769.0
+48,261742,2021-12-15,15,December,2021,29,Young Adults,F,United States,California,Bikes,Mountain Bikes,Mountain-200, 42,Silver,1.0,1266.0,2320.0,1054.0,1266.0,2320.0
+49,261743,2021-12-16,16,December,2021,33,Young Adults,F,Australia,New South Wales,Bikes,Mountain Bikes,Mountain-200, 38,Black,2.0,1252.0,2295.0,2086.0,2504.0,4590.0
+50,261744,2021-12-16,16,December,2021,38,Adults,M,Australia,New South Wales,Bikes,Mountain Bikes,Mountain-200, 38,Black,2.0,1252.0,2295.0,2086.0,2504.0,4590.0
+51,261745,2021-12-16,16,December,2021,27,Young Adults,F,France,Seine et Marne,Bikes,Mountain Bikes,Mountain-200, 46,Silver,1.0,1266.0,2320.0,1054.0,1266.0,2320.0
+52,261746,2021-12-17,17,December,2021,37,Adults,F,United States,Washington,Bikes,Mountain Bikes,Mountain-200, 38,Silver,2.0,1266.0,2320.0,2108.0,2532.0,4640.0
+53,261747,2021-12-17,17,December,2021,31,Young Adults,M,Australia,New South Wales,Bikes,Mountain Bikes,Mountain-400-W, 42,Silver,1.0,420.0,769.0,349.0,420.0,769.0
+54,261748,2021-12-17,17,December,2021,42,Adults,F,Germany,Nordrhein-Westfalen,Bikes,Mountain Bikes,Mountain-200, 46,Silver,1.0,1266.0,2320.0,1054.0,1266.0,2320.0
+55,261749,2021-12-18,18,December,2021,35,Adults,F,Australia,New South Wales,Bikes,Mountain Bikes,Mountain-500, 42,Silver,4.0,308.0,565.0,1028.0,1232.0,2260.0
+56,261750,2021-12-18,18,December,2021,38,Adults,F,Germany,Nordrhein-Westfalen,Bikes,Mountain Bikes,Mountain-200, 46,Silver,4.0,1266.0,2320.0,4216.0,5064.0,9280.0
+57,261751,2021-12-18,18,December,2021,24,Youth,F,France,Seine Saint Denis,Bikes,Mountain Bikes,Mountain-200, 38,Silver,3.0,1266.0,2320.0,3162.0,3798.0,6960.0
+58,261752,2021-12-18,18,December,2021,26,Young Adults,F,United Kingdom,England,Bikes,Mountain Bikes,Mountain-400-W, 42,Silver,3.0,420.0,769.0,1047.0,1260.0,2307.0
+59,261753,2021-12-18,18,December,2021,39,Adults,M,United States,California,Bikes,Mountain Bikes,Mountain-200, 42,Black,3.0,1252.0,2295.0,3129.0,3756.0,6885.0
+60,261754,2021-12-18,18,December,2021,26,Young Adults,M,France,Seine (Paris),Bikes,Mountain Bikes,Mountain-200, 46,Black,1.0,1252.0,2295.0,1043.0,1252.0,2295.0
+61,261755,2021-12-18,18,December,2021,36,Adults,M,United States,Washington,Bikes,Mountain Bikes,Mountain-200, 38,Silver,1.0,1266.0,2320.0,1054.0,1266.0,2320.0
+62,261756,2021-12-19,19,December,2021,17,Youth,M,France,Nord,Bikes,Mountain Bikes,Mountain-200, 46,Silver,4.0,1266.0,2320.0,4216.0,5064.0,9280.0
+63,261757,2021-12-19,19,December,2021,19,Youth,F,Australia,Victoria,Bikes,Mountain Bikes,Mountain-500, 44,Black,4.0,295.0,540.0,980.0,1180.0,2160.0
+64,261758,2021-12-19,19,December,2021,25,Young Adults,M,France,Seine (Paris),Bikes,Mountain Bikes,Mountain-200, 38,Black,4.0,1252.0,2295.0,4172.0,5008.0,9180.0
+65,261759,2021-12-19,19,December,2021,35,Adults,F,United States,Oregon,Bikes,Mountain Bikes,Mountain-100, 48,Black,4.0,1898.0,3375.0,5908.0,7592.0,13500.0
+66,261760,2021-12-19,19,December,2021,37,Adults,M,United States,Oregon,Bikes,Mountain Bikes,Mountain-200, 38,Black,4.0,1252.0,2295.0,4172.0,5008.0,9180.0
+67,261761,2021-12-19,19,December,2021,39,Adults,F,United States,California,Bikes,Mountain Bikes,Mountain-200, 46,Black,4.0,1252.0,2295.0,4172.0,5008.0,9180.0
+68,261762,2021-12-19,19,December,2021,63,Adults,F,Australia,Queensland,Bikes,Mountain Bikes,Mountain-200, 46,Black,4.0,1252.0,2295.0,4172.0,5008.0,9180.0
+69,261763,2021-12-19,19,December,2021,18,Youth,M,Australia,South Australia,Bikes,Mountain Bikes,Mountain-500, 40,Black,2.0,295.0,540.0,490.0,590.0,1080.0
+70,261764,2021-12-19,19,December,2021,56,Adults,F,Germany,Hessen,Bikes,Mountain Bikes,Mountain-200, 46,Black,2.0,1252.0,2295.0,2086.0,2504.0,4590.0
+71,261765,2021-12-19,19,December,2021,39,Adults,F,United States,Washington,Bikes,Mountain Bikes,Mountain-200, 38,Silver,1.0,1266.0,2320.0,1054.0,1266.0,2320.0
+72,261766,2021-12-20,20,December,2021,33,Young Adults,F,Australia,Victoria,Bikes,Mountain Bikes,Mountain-100, 38,Black,4.0,1898.0,3375.0,5908.0,7592.0,13500.0
+73,261767,2021-12-20,20,December,2021,57,Adults,M,Australia,Queensland,Bikes,Mountain Bikes,Mountain-200, 46,Black,4.0,1252.0,2295.0,4172.0,5008.0,9180.0
+74,261768,2021-12-20,20,December,2021,29,Young Adults,M,Canada,British Columbia,Bikes,Mountain Bikes,Mountain-500, 52,Black,3.0,295.0,540.0,735.0,885.0,1620.0
+75,261769,2021-12-20,20,December,2021,35,Adults,F,Australia,Queensland,Bikes,Mountain Bikes,Mountain-200, 38,Silver,1.0,1266.0,2320.0,1054.0,1266.0,2320.0
+76,261770,2021-12-20,20,December,2021,35,Adults,M,Australia,Victoria,Bikes,Mountain Bikes,Mountain-200, 38,Silver,1.0,1266.0,2320.0,1054.0,1266.0,2320.0
+77,261771,2021-12-21,21,December,2021,26,Young Adults,M,France,Somme,Bikes,Mountain Bikes,Mountain-200, 38,Silver,3.0,1266.0,2320.0,3162.0,3798.0,6960.0
+78,261772,2021-12-21,21,December,2021,23,Youth,M,United Kingdom,England,Bikes,Mountain Bikes,Mountain-400-W, 46,Silver,2.0,420.0,769.0,698.0,840.0,1538.0
+79,261773,2021-12-22,22,December,2021,30,Young Adults,F,United States,Washington,Bikes,Mountain Bikes,Mountain-200, 38,Silver,3.0,1266.0,2320.0,3162.0,3798.0,6960.0
+80,261774,2021-12-22,22,December,2021,41,Adults,M,United States,California,Bikes,Mountain Bikes,Mountain-200, 42,Black,3.0,1252.0,2295.0,3129.0,3756.0,6885.0
+81,261775,2021-12-22,22,December,2021,19,Youth,F,Australia,New South Wales,Bikes,Mountain Bikes,Mountain-500, 42,Silver,1.0,308.0,565.0,257.0,308.0,565.0
+82,261776,2021-12-22,22,December,2021,25,Young Adults,M,France,Seine (Paris),Bikes,Mountain Bikes,Mountain-200, 38,Black,1.0,1252.0,2295.0,1043.0,1252.0,2295.0
+83,261777,2021-12-22,22,December,2021,27,Young Adults,F,Canada,British Columbia,Bikes,Mountain Bikes,Mountain-200, 46,Black,1.0,1252.0,2295.0,1043.0,1252.0,2295.0
+84,261778,2021-12-22,22,December,2021,41,Adults,M,Germany,Hessen,Bikes,Mountain Bikes,Mountain-200, 38,Silver,1.0,1266.0,2320.0,1054.0,1266.0,2320.0
+85,261779,2021-12-23,23,December,2021,30,Young Adults,F,United States,Oregon,Bikes,Mountain Bikes,Mountain-200, 42,Silver,1.0,1266.0,2320.0,1054.0,1266.0,2320.0
+86,261780,2021-12-23,23,December,2021,31,Young Adults,F,Canada,British Columbia,Bikes,Mountain Bikes,Mountain-200, 42,Black,1.0,1252.0,2295.0,1043.0,1252.0,2295.0
+87,261781,2021-12-23,23,December,2021,35,Adults,F,United States,California,Bikes,Mountain Bikes,Mountain-500, 42,Black,1.0,295.0,540.0,245.0,295.0,540.0
+88,261782,2021-12-24,24,December,2021,38,Adults,M,Australia,Queensland,Bikes,Mountain Bikes,Mountain-200, 42,Black,4.0,1252.0,2295.0,4172.0,5008.0,9180.0
